@@ -27,13 +27,17 @@ To get started with this project, clone the repository and open the `index.html`
 
 ![Home Page](HomePage.jpg)
 
+
 ![Adventure Page](AdventurePage.jpg)
+
 
 ![Package Page ](PackagePage.jpg)
 
+
 ![Contact Us Page](ContactUsPage.jpg)
 
-![Footer Page](Footerpage.jpg)
+
+![Footer Page](FooterPage.jpg)
 
 ## Contribution
 
