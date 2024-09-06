@@ -25,6 +25,16 @@ By integrating these features, the proposed system aims to deliver a superior us
 
 To get started with this project, clone the repository and open the `index.html` file in your browser. For further development, make sure to have a basic understanding of HTML, CSS, and JavaScript.
 
+![Home Page](HomePage.jpg)
+
+![Adventure Page](AdventurePage.jpg)
+
+![Package Page ](PackagePage.jpg)
+
+![Contact Us Page](ContactUsPage.jpg)
+
+![Footer Page](Footerpage.jpg)
+
 ## Contribution
 
 Feel free to contribute to the project by submitting issues or pull requests. Your feedback and improvements are always welcome!
